@@ -6,9 +6,9 @@ This is a simple chat bot built using Python. It can have basic conversations wi
 # Contributors
 This project has been contributed to by the following people:
 
-John Doe (@johndoe)
-Jane Smith (@janesmith)
-Bob Johnson (@bobjohnson)
+Deepak Kumar Sinha
+Akshat Prasad
+Aman Kashyap
 
 # Usage
 To use the chat bot, simply run the bot.py file. The bot will greet you and ask for your name. From there, you can start a conversation with it by typing in your messages. The bot will respond with a message based on what you've said.
